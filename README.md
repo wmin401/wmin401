@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**wmin401/wmin401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working at Korbit as Devops Engineer
+- 🌱 I’m currently learning at University of Florida as Computer Science Major
+  - I have a good knowlege in C++, Python, Java Program Language.
+  - I am familiar with Springboot, Djanggo in Framework
+  - I am good at dealing with AWS Infrascture and IaC like Terraform
+  - I am mastered in Several Algorithm like Binary Tree, BFS, DFS, Greedy, and Graph
+- 👯 I’m looking to collaborate on something specal related to Data Engineering
+- 🤔 I’m looking for help with Data Engineering and Analytics and Blockchain
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+  - wmin401@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
