@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   - 🔭 I worked at Korbit as Devops Engineer
-  - 🌱 I studied at University of Illinois at Urbana-Champaign as Accountancy and Finacne Major,
+  - 🌱 I studied at University of Illinois at Urbana-Champaign as Accountancy and Finance Major,
   - I am currently studying at University of Florida as Computer Science Major
   - For this reason, I have special domain in Financial Market, and strogly interested in Blockchain and Stock Market.
   - I have a good knowlege in C++, Python, Java Program Language.
