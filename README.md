@@ -10,10 +10,12 @@
   - I am mastered in Several Algorithm like Binary Tree, BFS, DFS, Greedy, and Graph
 - 👯 I’m looking to collaborate on something specal related to Data Engineering
 - 🤔 I’m looking for help with Data Engineering, Analytics and Blockchain
-- 💬 Ask me about what you want
 - 📫 How to reach me: ...
   - wmin401@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Preffered Name is James
 - ⚡ Fun fact:
   - I am currently preparing tech blog and would like to record what I learn
+  - I am planning to contribute to open source.
+  - I am specialized in Infra and CI/CD Engineering Area, but would like to extend my speciality to the developing area .
+  - I daily solve Algorithm and upload my history to git repo.
 
